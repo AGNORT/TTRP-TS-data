@@ -1,5 +1,5 @@
 # TTRP-TS-data
-Instances and detailed results for the TTRP-TS. This respository contains the samll and large instances for the TTRP-TS, the detailed computational results are also provided.
+Instances and detailed results for the TTRP-TS. This respository contains the small and large instances for the TTRP-TS, the detailed computational results are also provided.
 ## 1. The description for the small scale instances
 
 “***n***” denotes the number of the total customers
