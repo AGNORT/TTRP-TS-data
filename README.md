@@ -4,17 +4,15 @@ Instances and detailed results for the TTRP-TS. This respository contains the sm
 
 “***n***” denotes the number of the total customers
 
-"***m***" denotes the number of the customer that can only serviced by the truck
+"***m***" denotes the number of the FCs
 
-"***kt***" denotes the number of the truck with trailer, i.e., the combination vehicles
+"***kt***" denotes the number of  the combination truck
 
 "***ut***" denotes the number of the pure truck
 
-"***Qt***" denotes the capacity of the combination vehicle
+"**Q1**" denotes the capacity of the combination truck
 
-"***Qu***" denotes the capacity of the pure truck
-
-"***M***" denotes a large enough integer number
+"***Q2***" denotes the capacity of the pure truck
 
 "**q**" denotes the cargo demand of all customers
 
