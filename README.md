@@ -24,6 +24,7 @@ Instances and detailed results for the TTRP-TS. This respository contains the sm
 
 ## 2. The description for the large scale instances
 The large scale source data was derived from the research article titled "Branch-and-price and adaptive large neighborhood search for the truck and trailer routing problem with time windows," authored by Parragh, S. N., & Cordeau, J. F.  The DOI for the article is https://doi.org/10.1016/j.cor.2017.01.020. Gratitude is extended to the authors for graciously sharing the source data with us.
+
 The numbers in the first line are Truck Capacity, Trailer Capacity, Number of Customers
 The numbers in each of the subsequent lines are Customer Number, X-coordinate, Y-coordinate, Demand, Indicator of Truck Customer (1 = TC, 0 = VC)
 The 2nd line is for the depot (node 0) so the last two numbers in the line can be ignored.
