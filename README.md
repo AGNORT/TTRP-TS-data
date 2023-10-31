@@ -1,22 +1,24 @@
 # TTRP-TS-data
+
 Instances and detailed results for the TTRP-TS. This respository contains the small and large instances for the TTRP-TS, the detailed computational results are also provided.
+
 ## 1. The description for the small scale instances
 
-“***n***” denotes the number of the total customers
+“***n***” denotes the number of customers
 
-"***m***" denotes the number of the FCs
+"***m***" denotes the number of FCs
 
-"***kt***" denotes the number of  the combination truck
+"***kt***" denotes the number of  combination trucks
 
-"***ut***" denotes the number of the pure truck
+"***ut***" denotes the number of pure trucks
 
 "**Q1**" denotes the capacity of the combination truck
 
 "***Q2***" denotes the capacity of the pure truck
 
-"**q**" denotes the cargo demand of all customers
+"**q**" denotes the cargo demand of customers
 
-"**s**" denotes the service time needed by all customers
+"**s**" denotes the service time needed by customers
 
 "**e**" and "**l**" denote the lower and upper bound of the customers' time windows
 
@@ -38,15 +40,3 @@ The detailed computational results for both small and large-scale instances are 
 "**Swap operation:**" provides the swap plan for emptied trailers in each instance. The statement "No emptied trailers swap operation!" signifies the absence of emptied trailer swaps in the optimal solution.
 
 "**Cost:**" indicates the cost of the best solution discovered.
-
-
-
-
-
-
-
-
-
-
-
-
